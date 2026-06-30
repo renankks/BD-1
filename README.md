@@ -6,9 +6,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* JavaScript | TypeScript
-* Node.js
-* React
+* PYTHON
 * HTML & CSS
 * Git & GitHub
 
